@@ -1,6 +1,7 @@
 # CLAUDE.md
 
 이 프로젝트는 클로드 코드 강의 진행을 위한 폴더임
+왜 푸시가 안될까 시부레
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.   
 
